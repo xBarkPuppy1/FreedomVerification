@@ -1,0 +1,9 @@
+##############################################
+## Config for FreedomVerify by FoxIshDaBest ##
+##############################################
+
+# Password for the plugin. Use this to verify with the verify command.
+password: walrus
+
+# Enable/disable permission of the verify command
+enabled: true
