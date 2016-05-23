@@ -1,0 +1,5 @@
+name: FreedomVerify
+author: MCPluginDev
+main: com.mcplugindev.freedomverify.Main
+description: Verification System addition plugin for FreedomBot.
+depend: [FreedomBot, TotalFreedom]
