@@ -9,7 +9,7 @@ import org.bukkit.event.player.AsyncPlayerChatEvent;
 
 public class Verify implements Listener {
 
-    public static final String BOTPREFIX = ChatColor.DARK_GRAY + "[" + ChatColor.DARK_RED + "Freedom" + ChatColor.RED + "Bot" + ChatColor.DARK_GRAY + "]" + ChatColor.RESET + " ";
+    public static final String BOTPREFIX = ChatColor.DARK_GRAY + "[" + ChatColor.DARK_GREEN + "Freedom" + ChatColor.GREEN + "Bot" + ChatColor.DARK_GRAY + "]" + ChatColor.RESET + " ";
 
     @EventHandler
     public void onPlayerChat(AsyncPlayerChatEvent event) {
