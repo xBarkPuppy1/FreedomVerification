@@ -22,7 +22,7 @@ public class FreedomVerify extends JavaPlugin {
         final PluginManager pm = plugin.getServer().getPluginManager();
         pm.registerEvents(new Verify(), plugin);
         plugin.getLogger().log(Level.INFO, "FreedomVerify v{0} has been enabled!", plugin.getDescription().getVersion());
-        plugin.getLogger().log(Level.INFO, "The current FreedomVerify developers are FoxIshDaBest, DUFCLiam, _JustYellow, and tylerhyperHD.");
+        plugin.getLogger().log(Level.INFO, "The current FreedomVerify developers are FoxIshDaBest, DUFC_Liam, _JustYellow, and tylerhyperHD.");
 
     }
 
