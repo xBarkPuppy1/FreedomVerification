@@ -3,7 +3,7 @@
 ##############################################
 
 # Password for the plugin. Use this to verify with the verify command.
-password: potato
+password: ihackconfigs656
 
 # Enable/disable permission of the verify command
 enabled: true
